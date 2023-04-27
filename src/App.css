@@ -1,38 +1,59 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+body{
+
+  margin-top: 20px !important;
+background-color: #EDC7B7 !important;
+font-family: 'Aboreto', cursive !important; 
+}
+
+.slides{
+  margin-bottom: 20px;
+}
+/* .woo{
+  border: 5px red solid;
+
+} */
+.row{
+  margin:70px  !important;
+}
+
+img{
+  height:100%;
+  width:100%;
+  border-radius:80px;
+}
+.apper{
+  /* background-color: red !important; */
+
+  /* padding-top: 100px;
+  padding-bottom: 100px; */
+  /* margin:100px; */
   text-align: center;
+  /* border: 1px red solid; */
+  
+}
+.col-6{
+  /* background-color: red; */
+  height:400px;
+}
+.col{
+  /* background-color:blue; */
+  height: 400px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn{
+  width:50%;
+  /* padding:50px !important; */
+  margin-top: 20px;
+  background-color: #123C69 !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.newButton{
+  margin-top: 20px;
+  /* border-radius: 100% !important; */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1{
+  color:#AC3B61;
 }
