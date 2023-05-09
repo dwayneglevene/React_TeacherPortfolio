@@ -16,7 +16,7 @@ function Layout(){
   
   <div class ="row">
     <div class = "col-6">
-      <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/341000935_1678030082634697_4083074487114717355_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=kTXlOJTqvBsAX-YTIO9&_nc_ht=scontent-lga3-2.xx&oh=00_AfAIEARPE9lxVheuzyEiW1bEENOk0ZbGHNnlRqJa06MUdw&oe=6450CE44"/>
+      <img src="https://www.goredforwomen.org/-/media/Images/News/2021/October-2021/1025TIFKnowledgeHouse-Dwayne-Levene.jpg"/>
     </div>
     <div class = "col-6">
     <About />
