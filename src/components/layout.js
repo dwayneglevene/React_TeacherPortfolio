@@ -33,6 +33,7 @@ function Layout(){
     }} type="button" class="btn btn-primary btn-lg">
       Lessons</button>
 
+<h1>Curriculum</h1>
       <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSRDYIWJ6FLUnH8rtzuUywxtZthwlCOaA_3jPsgSJ7kO-DhqYlcbCzz8jpYG6qaqvJPfLsJiia_a8s/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="100%"></iframe>
 
   

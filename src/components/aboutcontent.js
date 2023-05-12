@@ -7,7 +7,7 @@ function About(){
             
             <h5>CS ed thoughts:</h5>I look at everyday as a learning experience and have embedded my self in non stop learning ever since I started on this coding journey.Although I like teaching I am still open to new opportunities to develop. My goal is to be a full fledged engineer as well as start my own tech company.I think its great that we are empowering young minds with the knowledge to do the same.
        
-        <button onClick ={() => window.open('https://docs.google.com/document/d/15sKeNwcIksUeDkZu8AJglUCd_Hh9o_FTaePV587PNs8/edit?usp=sharing')} type="button"  class="btn btn-primary newButton">Resume</button>
+        <button onClick ={() => window.open('https://docs.google.com/document/d/e/2PACX-1vQUJj8-Tfke-xeMntsnqUkJPu6PbM00O2KHc93mGHfSZfkNbzbM94etQwiOOPBpWFCkm8eZUY2QtdFt/pub')} type="button"  class="btn btn-primary newButton">Resume</button>
         </div>
     )
 }
